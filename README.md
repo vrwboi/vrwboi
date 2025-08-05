@@ -1,10 +1,10 @@
 ## Hi there 👋
 <div style="display: flex; width: 100%;">
   <a href="https://github.com/vrwboi" style="flex: 1; text-align: center;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vrwboi&show_icons=true&theme=omni&count_private=true" alt="Github Stats" style="max-width: 100%; height: auto;" />
+    <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=vrwboi&show_icons=true&theme=omni&count_private=true" alt="Github Stats" style="max-width: 100%; height: auto;" />
   </a>
   <a href="https://github.com/vrwboi" style="flex: 1; text-align: center;">
-    <img height="200" align="center" src="https://streak-stats.demolab.com?user=vrwboi&theme=neon&mode=weekly" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+    <img height="170" align="center" src="https://streak-stats.demolab.com?user=vrwboi&theme=neon&mode=weekly" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </a>
 </div>
 
