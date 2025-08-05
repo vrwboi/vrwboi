@@ -9,8 +9,10 @@
 
 - 🌱 I’m currently learning **Modern C++, Golang, Rust**
 
-- 📫 How to reach me **virwbo@qq.com**
+- 📖 I'm reading **Effective Modern C++, The Rust Programming Language**
 
+- 📖 📋 Recently I've been doing a hands-on implementation of a simple std library
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
