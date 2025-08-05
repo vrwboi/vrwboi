@@ -8,7 +8,7 @@
   </a>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="500"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15&layout=pie" alt="Top Langs" style="max-width: 100%" />
+        <img height="500"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrwboi&langs_count=15&layout=pie" alt="Top Langs" style="max-width: 100%" />
 </a>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vrwboi)](https://github.com/anuraghazra/github-readme-stats)
 
