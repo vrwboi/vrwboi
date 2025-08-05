@@ -10,8 +10,14 @@
   </a>
 </div>
 --------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning Modern C++, Golang, Rust
-- 📖 I'm reading Effective Modern C++, The Rust Programming Language
+<div style="display: flex; gap: 20px;">
+  <ul style="flex: 1; margin: 0; padding-left: 20px;">
+    <li>🌱 I’m currently learning Modern C++, Golang, Rust</li>
+  </ul>
+  <ul style="flex: 1; margin: 0; padding-left: 20px;">
+    <li>📖 I'm reading Effective Modern C++, The Rust Programming Language</li>
+  </ul>
+</div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="500"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrwboi&langs_count=15&layout=pie" alt="Top Langs" style="max-width: 100%" />
