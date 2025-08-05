@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Vrwboi, A student majoring in Computer Science and Technology Engineering 💻
+   I'm Vrwboi, A student majoring in Computer Science and Technology Engineering 💻
 --------------------------------------------------------------------------------------------
 <div style="display: flex; width: 100%;">
   <a href="https://github.com/vrwboi" style="flex: 1; text-align: center;">
