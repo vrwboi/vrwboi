@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm Vrwboi, A student majoring in Computer Science and Technology Engineering 💻
+--------------------------------------------------------------------------------------------
 <div style="display: flex; width: 100%;">
   <a href="https://github.com/vrwboi" style="flex: 1; text-align: center;">
     <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=vrwboi&show_icons=true&theme=omni&count_private=true" alt="Github Stats" style="max-width: 100%; height: auto;" />
