@@ -21,7 +21,7 @@
     <li>📋 Recently I've been doing a hands-on implementation of a simple std library</li>
   </ul>
 </div>
-<script src="https://gist.github.com/vrwboi/e9cdf8ea589d72c885bba17f77053fd1.js"></script>
+
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="500"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrwboi&langs_count=15&layout=pie" alt="Top Langs" style="max-width: 100%" />
