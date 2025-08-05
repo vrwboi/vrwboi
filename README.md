@@ -17,6 +17,9 @@
   <ul style="flex: 1; margin: 0; padding-left: 20px;">
     <li>📖 I'm reading Effective Modern C++, The Rust Programming Language</li>
   </ul>
+  <ul style="flex: 1; margin: 0; padding-left: 20px;">
+    <li>📋 Recently I've been doing a hands-on implementation of a simple std library</li>
+  </ul>
 </div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
