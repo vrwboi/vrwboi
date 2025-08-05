@@ -9,9 +9,13 @@
     <img height="170" align="center" src="https://streak-stats.demolab.com?user=vrwboi&theme=neon&mode=weekly" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
   </a>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+--------------------------------------------------------------------------------------------
+- 🌱 I’m currently learning Modern C++, Golang, Rust
+- 📖 I'm reading Effective Modern C++, The Rust Programming Language
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="500"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrwboi&langs_count=15&layout=pie" alt="Top Langs" style="max-width: 100%" />
-</a>
+</a> -->
 
 
 <!--
