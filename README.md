@@ -1,6 +1,8 @@
 ## Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vrwboi&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrwboi&size_weight=0.5&count_weight=0.5)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vrwboi&show_icons=true&theme=omni&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vrwboi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vrwboi&theme=neon&mode=weekly)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=15&layout=pie)
 <!--
 **vrwboi/vrwboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
