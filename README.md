@@ -1,5 +1,4 @@
 ## Hi there 👋
-<table>
   <tr>
     <td valign="top" align="left" style="padding-right: 20px;">
       <a href="https://github.com/vrwboi">
@@ -16,7 +15,6 @@
       </a>
     </td>
   </tr>
-</table>
 
 <!--
 **vrwboi/vrwboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
